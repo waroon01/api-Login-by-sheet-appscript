@@ -37,3 +37,11 @@ The response returned is in JSON format with the following schema:
 - message (string): Provides any additional message or information.
     
 - token (string): Represents the token received upon successful execution.
+
+''' Example
+Body urlencoded
+type register
+
+username waroon
+password love1234
+
