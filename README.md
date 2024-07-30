@@ -38,7 +38,7 @@ The response returned is in JSON format with the following schema:
     
 - token (string): Represents the token received upon successful execution.
 
-''' Example
+#Example
 Body urlencoded
 type register
 
