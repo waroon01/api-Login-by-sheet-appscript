@@ -67,4 +67,4 @@ The response returned is in JSON format with the following schema:
     
 - message (string): Provides any additional message or information.
     
-- token (string): Represents the token received upon successful execution.
+- token (string): Represents the token (JWT) received upon successful execution.
